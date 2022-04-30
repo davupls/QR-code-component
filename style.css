@@ -6,10 +6,11 @@
   font-family: 'Outfit', sans-serif;
   font-size: 16px;
 
-  --Grayish-blue: hsl(220, 15%, 55%);
+  --Grayish-blue: RGB(213, 224, 239);
   --Dark-blue: hsl(218, 44%, 22%);
   --White: hsl(0, 0%, 100%);
   --Light-gray: hsl(212, 45%, 89%);
+
 }
 
 body {
